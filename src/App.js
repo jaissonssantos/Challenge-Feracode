@@ -8,6 +8,10 @@ import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import Content from "./components/Content";
 
+import "bootstrap/dist/css/bootstrap.min.css";
+import "react-toastify/dist/ReactToastify.css";
+import "./styles/import.css";
+
 import GlobalStyle from "./styles/global";
 
 function App() {
